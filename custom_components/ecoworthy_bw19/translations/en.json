@@ -1,0 +1,25 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "This inverter is already configured.",
+      "unsupported": "This device is not an ECO-WORTHY BW19 inverter."
+    },
+    "error": {
+      "invalid_address": "Enter the Bluetooth address in the format AA:BB:CC:DD:EE:FF.",
+      "not_found": "An active Bluetooth adapter has not seen this address. Bring the adapter within range of the inverter and close the ECO-WORTHY app, then try again.",
+      "unsupported": "This device is not an ECO-WORTHY BW19 inverter."
+    },
+    "step": {
+      "confirm": {
+        "title": "Add ECO-WORTHY BW19",
+        "description": "Set up {name} to monitor battery voltage, battery current, and AC voltage."
+      },
+      "user": {
+        "title": "Add ECO-WORTHY BW19",
+        "data": {
+          "address": "Bluetooth address"
+        }
+      }
+    }
+  }
+}
